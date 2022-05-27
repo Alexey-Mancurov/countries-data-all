@@ -13,9 +13,7 @@ Import to your file
 ```js
 import { countriesData } from 'countries-data-all'
 ```
-
 or
-
 ```js
 const { countriesData } = require('countries-data-all')
 ```
