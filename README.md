@@ -14,6 +14,12 @@ Import to your file
 import { countriesData } from 'countries-data-all'
 ```
 
+or
+
+```js
+const { countriesData } = require('countries-data-all')
+```
+
 You will get an array of the form: 
 
 ```js
