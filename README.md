@@ -9,6 +9,7 @@ import to your file
     import { countriesData } from 'countries-data-all'
 
 you will get an array of the form: 
+
     [
     {
     country: "Abkhazia",
