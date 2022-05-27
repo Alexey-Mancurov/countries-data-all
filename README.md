@@ -10,18 +10,18 @@ import to your file
 
 you will get an array of the form: 
     [
-      {
-        country: "Abkhazia",
-        countryCodes: ["7840"],
-        flag: "./src/ab.svg",
-        isoCode2: "AB",
-        isoCode3: "ABH",
-      },
-      {
-        country: "Afghanistan",
-        countryCodes: ["93"],
-        flag: "./src/af.svg",
-        isoCode2: "AF",
-        isoCode3: "AFG",
-      },
+    {
+    country: "Abkhazia",
+    countryCodes: ["7840"],
+    flag: "./src/ab.svg",
+    isoCode2: "AB",
+    isoCode3: "ABH",
+    },
+    {
+      country: "Afghanistan",
+      countryCodes: ["93"],
+      flag: "./src/af.svg",
+      isoCode2: "AF",
+      isoCode3: "AFG",
+    },
     ]
