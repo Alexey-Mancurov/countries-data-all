@@ -5,7 +5,8 @@ Library includes all simple data about all country - name, image flag, phone cod
     npm i countries-data-all
 
 ## Usage
-import to your file
+Import to your file
+
     import { countriesData } from 'countries-data-all'
 
 you will get an array of the form: 
