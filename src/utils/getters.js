@@ -16,4 +16,4 @@ const getIsoCodes = () => {
   }));
 };
 
-module.exports = {getCountryCodesWithFlags, getIsoCodes};
+module.exports = { getCountryCodesWithFlags, getIsoCodes };
